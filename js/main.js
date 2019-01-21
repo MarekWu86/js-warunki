@@ -9,5 +9,4 @@ function myFunction(liczba) {
     }
 }
 
-
 myFunction(chosenNumber);
